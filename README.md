@@ -31,7 +31,7 @@ Add and manage tasks easily
 Tasks remain saved even after refresh
 Interactive task management (add/delete/complete)
 Clean and responsive UI
-![Output](output.png)
+![Output](Output.png)
 
 🌐 Live Demo:
 https://himesh-tech.github.io/todo-list-javascript/
